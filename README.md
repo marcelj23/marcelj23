@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Blessings, I'm Marcel! <br/><a href="https://github.com/marcelj23/">Student</a>, <a href="https://www.linkedin.com/in/marcel-jenkins">Networking Professional</a></h1>
 
-<!--
-**marcelj23/marcelj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 CCNA Projects:</h2>
 
-Here are some ideas to get you started:
+ <a href="https://docs.google.com/document/d/e/2PACX-1vTKFUMlbauYGr8uGmikXa0N_vEEingPrME1ozCvVUoL4GpgtDNWyAK1Cq0spmNq-Keho_KPUsV21Wf7/pub">Troubleshooting OSPF</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://docs.google.com/document/d/e/2PACX-1vS24GtgskiqvFzeFtJGjGzkHxOWAVKV3kGK8o7OVudd2UUlYXGwyxywJcolEAHfFqtP50qccRElMclq/pub">Configuring a Cisco WLC</a>
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+<h3>https://www.linkedin.com/in/marcel-jenkins</h3>
