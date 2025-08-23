@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Marcel Jenkins!</a>'s IT and Cybersecurity Project Portfolio 👨‍💻
+# <a href="https://www.linkedin.com/in/joshmadakor/">Marcel Jenkins</a>'s IT and Cybersecurity Project Portfolio 👨‍💻
 
 <h1>Blessings, I'm Marcel! <br/><a href="https://github.com/marcelj23/">I.T. Analyst</a>, <a href="https://www.linkedin.com/in/marcel-jenkins">Cyber Professional</a></h1>
 
