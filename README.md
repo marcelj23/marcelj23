@@ -8,9 +8,9 @@ This repositroy showcases my projects where I solve real-world security and IT c
 
 ## 💥 CCNA Projects
 
- <a href="https://docs.google.com/document/d/e/2PACX-1vTKFUMlbauYGr8uGmikXa0N_vEEingPrME1ozCvVUoL4GpgtDNWyAK1Cq0spmNq-Keho_KPUsV21Wf7/pub">Troubleshooting OSPF</a>
+ - **<a href="https://docs.google.com/document/d/e/2PACX-1vTKFUMlbauYGr8uGmikXa0N_vEEingPrME1ozCvVUoL4GpgtDNWyAK1Cq0spmNq-Keho_KPUsV21Wf7/pub">Troubleshooting OSPF</a>**
 
- <a href="https://docs.google.com/document/d/e/2PACX-1vS24GtgskiqvFzeFtJGjGzkHxOWAVKV3kGK8o7OVudd2UUlYXGwyxywJcolEAHfFqtP50qccRElMclq/pub">Configuring a Cisco WLC</a>
+ - **<a href="https://docs.google.com/document/d/e/2PACX-1vS24GtgskiqvFzeFtJGjGzkHxOWAVKV3kGK8o7OVudd2UUlYXGwyxywJcolEAHfFqtP50qccRElMclq/pub">Configuring a Cisco WLC</a>**
  
 ## 💥 Vulnerability Management Projects
 
