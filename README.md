@@ -2,7 +2,9 @@
 
 <h1>Blessings, I'm Marcel! <br/><a href="https://github.com/marcelj23/">I.T. Analyst</a>, <a href="https://www.linkedin.com/in/marcel-jenkins">Cyber Professional</a></h1>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m a certified IT and cybersecurity professional (CCNA, AWS Cloud Practitioner, Security+, ITILv4) with real-world experience as an IT Support Analyst and a Cybersecurity Intern. My work spans hands-on projects in vulnerability management, threat detection, automation, and cloud security, utilizing tools like Tenable, Microsoft Sentinel, Azure, MDE, and PowerShell.
+
+This repositroy showcases my projects where I solve real-world security and IT challenges, automate processes, and strengthen security operations. Dive in to see practical solutions I’ve built, strategies I’ve implemented, and my commitment to proactive, hands-on cybersecurity.
 
 ## 💥 CCNA Projects
 
@@ -23,8 +25,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
