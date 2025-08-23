@@ -1,4 +1,4 @@
-<h1>Blessings, I'm Marcel! <br/><a href="https://github.com/marcelj23/">Student</a>, <a href="https://www.linkedin.com/in/marcel-jenkins">Networking Professional</a></h1>
+<h1>Blessings, I'm Marcel! <br/><a href="https://github.com/marcelj23/">Student</a>, <a href="https://www.linkedin.com/in/marcel-jenkins">I.T. Analyst & Cyber Professional</a></h1>
 
 <h2>👨‍💻 CCNA Projects:</h2>
 
