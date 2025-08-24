@@ -15,7 +15,7 @@ This repositroy showcases my projects where I solve real-world security and IT c
 ## 💥 Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/marcelj23/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/marcelj23/Programmatic-Vulnerability-Remediations)**
 
 ## 💥 Threat Hunting and Security Operations
 
